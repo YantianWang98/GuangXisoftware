@@ -2,7 +2,10 @@ Codes branches:
 
 My developed software for generating and processing point cloud from raw binary data (scanning and POS):
 
-C++ & Qt language
+GuangXiSoftware.cpp
+main.cpp
+
+Using C++ & Qt language
 
 ----------------------------------------------------------
 
