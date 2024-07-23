@@ -1,8 +1,10 @@
 Codes branches:
 
-My developed software for generating and processing point cloud from raw binary data (scanning and POS):
+My developed software for generating and processing point cloud from raw binary data (scanning and POS)
 
-C++ & Qt language
+Using C++ & Qt language
+
+The complete Microsoft Visual Studio project files are stored on my Baidu cloud drive, you can ask me for them
 
 ----------------------------------------------------------
 
